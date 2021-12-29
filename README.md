@@ -6,6 +6,8 @@ This is a test project given to naymkhan to test his skills. It fetches long lis
 
 #### A Pie Chart shows the total bookings from different sources
 
+go 'https://docs.google.com/document/d/1jMy5yU0e3GDHuVem4WuJt_jym9z9nHTydapujX-Dses/edit?usp=sharing' to see code reveiw and workflow of the applicaiton
+
 ## Available Scripts
 
 In the project directory, you can run:
