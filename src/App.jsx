@@ -42,7 +42,7 @@ function App() {
             />
           </div>
           <div>
-            <h1>total ammount of booking per source</h1>
+            <h1>total bookings as per source</h1>
             <Pie
               labels={data.map((e) => `${e.externalSite}: ${e.bookingCounts}`)}
               values={data.map((e) => e.bookingCounts)}
