@@ -8,6 +8,7 @@ import Pie from "./components/Pie";
 function App() {
   const [data, setData] = React.useState([]);
   const [loading, setLoading] = React.useState(false);
+
   const getData = async () => {
     setLoading(true);
     const res = await axios.post(
