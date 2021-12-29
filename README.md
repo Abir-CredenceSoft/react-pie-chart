@@ -12,8 +12,12 @@ go 'https://docs.google.com/document/d/1jMy5yU0e3GDHuVem4WuJt_jym9z9nHTydapujX-D
 
 In the project directory, you can run:
 
+### `npm install`
+
+to load npm packages
+
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-before run this command run 'npm install' command to make sure all the npm packages are downloaded in node modules.
+before run this command run 'npm install' command to make sure you have all the npm packages in node modules folder.
